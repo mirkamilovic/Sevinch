@@ -1,8 +1,0 @@
-aiogram>=3.28
-kurigram
-tgcrypto
-py-tgcalls>=2.1
-yt-dlp[default]
-aiosqlite
-cryptography
-python-dotenv
